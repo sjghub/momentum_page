@@ -1,0 +1,25 @@
+form{
+    display: flex;
+   align-items: center;
+}
+#Generate_number{
+    margin-left: 5px;
+    width: 150px;
+    height: 22px;
+}
+#Guess_form{
+    height: 18px;
+}
+#Guess_number{
+    width: 150px;
+    margin-left: 10px;
+}
+#Guess_submit{
+    margin-left: 5px;
+    border-radius: 5px;
+    border-color: rbga(0,0,0,0.1);
+}
+
+.hidden{
+    display: none;
+}
